@@ -1,0 +1,8 @@
+app\example\hybernate\HibernateProperties.class
+app\example\hybernate\models\Name_.class
+app\example\hybernate\SessionManager.class
+app\example\hybernate\models\Laptop.class
+app\example\hybernate\models\Person_.class
+app\example\hybernate\models\Laptop_.class
+app\example\hybernate\models\Person.class
+app\example\hybernate\models\Name.class
